@@ -17,7 +17,7 @@
    No. All hwid serials/drivers are reset back to normal after pc restart.
 
 - Requirements [100 MBs Of Space, 64bit versions supported.]
-- Our Discord (keys): https://discord.gg/kHfpKhsQvN
+- Our Discord: https://discord.gg/kHfpKhsQvN
 <p align="left">
 </p>
 
