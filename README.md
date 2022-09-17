@@ -1,4 +1,4 @@
-<h1 align="center"> Astro, Kernel Hwid Spoofer.</h1>
+<h1 align="center"> Astro, Kernel Hwid Spoofer. (EAC)</h1>
 <h3 align="center">First Free Completely UD Hwid Spoofer.</h3>
 
 - Kernel Usermode, Spoofer (EAC)
