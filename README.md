@@ -7,7 +7,7 @@
 -  **Includes**
 -  **Cleaner (Cleans all traces)**
 -  **Built in VPN support (unsupported)**
--  **Undetected As Of 9/15/2022**
+-  **Undetected As Of 11/2/2022**
 -  **You Need A Key To Access Or Use The Spoofer.**
 
 - FAQs
